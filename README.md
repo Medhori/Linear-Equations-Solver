@@ -9,7 +9,7 @@ This program requires Java to compile and run.
 
 **Author:** Mo Balić - [mobalic](https://github.com/mobalic)
 
-This program is based on Linear Equations Solver with AI on JetBrains Academy.
+This program is based on Linear Equations Solver on JetBrains Academy.
 
 ## License
 
